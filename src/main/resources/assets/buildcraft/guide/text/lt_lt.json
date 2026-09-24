@@ -1,0 +1,1784 @@
+{
+  "format": 1,
+  "language": "lt_lt",
+  "pages": {
+    "buildcraftcore/item/gear_wood": [
+      null,
+      "Medinis krumpliaratis yra pirmasis BuildCraft gamybos žingsnis ir daugelio daiktų bei mašinų pagrindas.",
+      null
+    ],
+    "buildcraftcore/item/gear_stone": [
+      null,
+      "Akmeninis krumpliaratis yra medinio krumpliaračio patobulinimas, naudojamas tvirtesnėms mašinoms gaminti.",
+      null
+    ],
+    "buildcraftcore/item/gear_iron": [
+      null,
+      "Geležinis krumpliaratis leidžia gaminti sudėtingesnes mašinas, kurioms reikia metalo tvirtumo.",
+      null
+    ],
+    "buildcraftcore/item/gear_gold": [
+      null,
+      "Auksinis krumpliaratis yra aukštesnė pakopa, naudojama, be kita ko, didesnėse srityse dirbančiose mašinose.",
+      null
+    ],
+    "buildcraftcore/item/gear_diamond": [
+      null,
+      "Deimantinis krumpliaratis yra paskutinė įprastų krumpliaračių pakopa ir reikalingas sudėtingiausioms mašinoms.",
+      null
+    ],
+    "buildcraftcore/item/wrench": [
+      null,
+      "BuildCraft veržliaraktis pasuka ir perkonfigūruoja palaikomas mašinas, kryptinius vamzdžius bei kitus BuildCraft blokus.",
+      null
+    ],
+    "buildcraftcore/item/paintbrush": [
+      null,
+      "Teptuku įvairius blokus galima nudažyti viena iš 16 spalvų. Spalva ne tik puošia: kai kuriems blokams ji keičia veikimą, pavyzdžiui, skirtingų spalvų vamzdžiai nesusijungia.",
+      null
+    ],
+    "buildcraftcore/item/marker_connector": [
+      null,
+      "Žymeklių jungtis sujungia suderinamus žymeklius ir tiesiogiai redaguoja Volume Box bei Path Marker geometriją.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/item/marker_path": [
+      null,
+      "Path Mark žymekliai nustato tvarkingą maršrutą mašinoms, kurios palaiko darbą pagal kelią.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/item/list": [
+      null,
+      "Sąrašas saugo pakartotinai naudojamus daiktų filtrus vamzdžiams, vartams ir robotų stotelėms.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/block/engine_wood": [
+      null,
+      "Raudonakmenio variklis yra mažiausias BuildCraft MJ variklis. Jam reikia tik raudonojo akmens signalo, o jo galia – 0,05 MJ per tiką.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/always_on": [
+      null,
+      "„Visada įjungta“ yra aktyviklis, prieinamas bet kuriuose pastatytuose vartuose.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/redstone_active": [
+      null,
+      "„Raudonojo akmens signalas įjungtas“ yra aktyviklis, prieinamas bet kuriuose vartuose.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/redstone_inactive": [
+      null,
+      "„Raudonojo akmens signalas išjungtas“ yra aktyviklis, prieinamas bet kuriuose vartuose.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/inventory_empty": [
+      null,
+      "„Inventorius tuščias“ yra vartų aktyviklis, prieinamas, kai šalia vartų yra inventorius.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/inventory_contains": [
+      null,
+      "„Inventoriuje yra daiktų“ yra vartų aktyviklis, prieinamas, kai šalia yra inventorius.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/inventory_space": [
+      null,
+      "„Inventoriuje yra vietos“ yra vartų aktyviklis, prieinamas, kai šalia yra inventorius.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/inventory_full": [
+      null,
+      "„Inventorius pilnas“ yra vartų aktyviklis, prieinamas, kai šalia yra inventorius.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/inventory_below_25": [
+      null,
+      "„Mažiau nei 25 %“ yra vartų aktyviklis, prieinamas, kai šalia yra inventorius.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/inventory_below_50": [
+      null,
+      "„Mažiau nei 50 %“ yra vartų aktyviklis, prieinamas, kai šalia yra inventorius.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/inventory_below_75": [
+      null,
+      "„Mažiau nei 75 %“ yra vartų aktyviklis, prieinamas, kai šalia yra inventorius.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/fluid_empty": [
+      null,
+      "„Bakas tuščias“ yra vartų aktyviklis, prieinamas, kai šalia vartų yra bakas.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/fluid_contains": [
+      null,
+      "„Bake yra skysčio“ yra vartų aktyviklis, prieinamas, kai šalia vartų yra bakas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/fluid_space": [
+      null,
+      "„Yra vietos skysčiui“ yra vartų aktyviklis, prieinamas, kai šalia vartų yra bakas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/fluid_full": [
+      null,
+      "„Bakas pilnas“ yra vartų aktyviklis, prieinamas, kai šalia vartų yra bakas.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/fluid_below_25": [
+      null,
+      "„Mažiau nei 25 %“ yra vartų aktyviklis, prieinamas, kai šalia yra bakas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/fluid_below_50": [
+      null,
+      "„Mažiau nei 50 %“ yra vartų aktyviklis, prieinamas, kai šalia yra bakas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/fluid_below_75": [
+      null,
+      "„Mažiau nei 75 %“ yra vartų aktyviklis, prieinamas, kai šalia yra bakas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/engine_blue": [
+      null,
+      "„Variklis mėlynas“ yra vartų aktyviklis, prieinamas, kai šalia yra variklis.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/engine_green": [
+      null,
+      "„Variklis žalias“ yra vartų aktyviklis, prieinamas, kai šalia yra variklis.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/engine_yellow": [
+      null,
+      "„Variklis geltonas“ yra vartų aktyviklis, prieinamas, kai šalia yra variklis.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/engine_red": [
+      null,
+      "„Variklis raudonas“ yra vartų aktyviklis, prieinamas, kai šalia yra variklis.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/engine_overheat": [
+      null,
+      "„Variklis perkaitęs“ yra vartų aktyviklis, prieinamas, kai šalia yra variklis.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/machine_active": [
+      null,
+      "„Yra darbo“ yra vartų aktyviklis, prieinamas, kai šalia yra galinti veikti mašina.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/trigger/machine_inactive": [
+      null,
+      "„Darbas baigtas“ yra vartų aktyviklis, prieinamas, kai šalia esanti mašina baigė darbą.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/action/redstone": [
+      null,
+      "„Raudonojo akmens signalas“ yra veiksmas, prieinamas bet kuriuose vartuose.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/action/machine_control_on": [
+      null,
+      "„Įjungti“ yra vartų veiksmas, prieinamas, kai šalia yra galinti veikti mašina.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/action/machine_control_off": [
+      null,
+      "„Išjungti“ yra vartų veiksmas, prieinamas, kai šalia yra galinti veikti mašina.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/action/machine_control_loop": [
+      null,
+      "„Kartoti“ yra vartų veiksmas, prieinamas, kai šalia yra galinti veikti mašina.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/block/engine_stone": [
+      null,
+      "Stirlingo variklis degina įprastą krosnies kurą ir pagamina maždaug 0,33–1 MJ per tiką. Automatinio FE suderinamumo režimu ši galia taip pat gali maitinti suderinamus FE vartotojus.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/block/engine_iron": [
+      null,
+      "Degimo variklis degina skystą BuildCraft kurą, aušinimo skysčiu valdo temperatūrą ir kaupia nešvaraus kuro paliekamas liekanas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/block/distiller": [
+      null,
+      "Distiliatorius naudoja MJ ir atskiria skystį į vieną dujinį bei vieną skystą išėjimą.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/block/heat_exchange": [
+      null,
+      "Šilumokaitis perkelia šilumą tarp dviejų skysčių srautų ir keičia BuildCraft skysčių būsenas tarp Cool, Hot ir Searing.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/block/tank": [
+      null,
+      "Bakas leidžia tiesiogiai laikyti skysčius nenaudojant kibirų ir skrynių.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/block/pump": [
+      null,
+      "Siurblys suranda po savimi susijungusį skysčio telkinį, valdomai jį nusausina ir surinktą skystį perduoda į gretimus bakus ar vamzdžius.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/block/flood_gate": [
+      null,
+      "Užliejimo vartai priima skystį ir, nenaudodami MJ, pasiekiamose tuščiose vietose padeda pilnus šaltinio blokus.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/block/mining_well": [
+      null,
+      "Kasybos šulinys kasa vieną stulpelį tiesiai po savimi, leidžia vamzdį žemyn šachta ir išveda teisėtai iškastų blokų laimikį.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/block/chute": [
+      null,
+      "Latakas panašus į piltuvą, tačiau turi daugiau funkcijų.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/block/auto_workbench": [
+      null,
+      "Automatinis darbastalis išsaugo receptą, priima ingredientus iš automatikos ir kartoja gamybą. Pats veikia lėtai, tačiau MJ gali pagreitinti darbą.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftlib/config/registry_overview": [
+      null,
+      "Šiame puslapyje aprašomas nuo kalbos nepriklausomas BuildCraft Community Edition Guide Book manifestas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftlib/config/json_insn_format": [
+      null,
+      "Šiame techniniame puslapyje apibendrinama dėl išteklių suderinamumo išlaikyta senoji BuildCraft JSON instrukcijų kalba.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftlib/config/guide_page_format": [
+      null,
+      "Šiame puslapyje aprašomas BuildCraft Community Edition naudojamas supakuotas ir lokalizuotas Guide Book išteklių formatas.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/plug_facade": [
+      null,
+      "Fasadas yra prijungiamas priedas, dengiantis vamzdžius taip, kad jie derėtų prie statinio.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/plug_gate": [
+      null,
+      "Vartai yra tobulinamas prijungiamas priedas, suteikiantis loginę sistemą vamzdynui valdyti.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/plug_pulsar": [
+      null,
+      "<bold>Patarimas:</bold> Prieš kopijuodami ar montuodami daug šių priedų, pirmiausia sukonfigūruokite vieną ir patikrinkite jo kryptį bei sąveiką su vartais ant vieno vamzdžio šono.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/plug_light_sensor": [
+      null,
+      "Šviesos jutiklis yra vamzdžio priedas, matuojantis priešais esančio bloko apšvietimą ir perduodantis duomenis vartams gretimoje to paties vamzdžio pusėje.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/plug_lens": [
+      null,
+      "Lęšiai ir filtrai yra spalvoti vamzdžių priedai, saugomi kaip to paties daikto variantai.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/trigger/light_high": [
+      null,
+      "„Šviesu“ yra vartų aktyviklis, prieinamas, kai prie to paties vamzdžio pritvirtintas tos pačios spalvos šviesos jutiklis.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/trigger/light_low": [
+      null,
+      "„Tamsu“ yra vartų aktyviklis, prieinamas, kai prie to paties vamzdžio pritvirtintas tos pačios spalvos šviesos jutiklis.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/action/pulsar_constant": [
+      null,
+      "„Maitinimo pulsatorius įjungtas“ yra vartų veiksmas, prieinamas, kai prie to paties vamzdžio pritvirtintas vamzdžio pulsatorius.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/action/pulsar_single": [
+      null,
+      "„Vienas maitinimo impulsas“ yra vartų veiksmas, prieinamas, kai prie to paties vamzdžio pritvirtintas vamzdžio pulsatorius.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/structure": [
+      null,
+      "Konstrukcinis vamzdis gali laikyti vartus ir vamzdžio laidus, tačiau juo niekas nėra transportuojama.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/wood_item": [
+      null,
+      "Medinis transportavimo vamzdis, gavęs energijos, ištraukia daiktus iš inventoriaus.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/cobble_item": [
+      null,
+      "Skaldos transportavimo vamzdis perneša daiktus į prijungtus vamzdžius ar inventorius.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/stone_item": [
+      null,
+      "Akmeninis transportavimo vamzdis perneša daiktus į prijungtus vamzdžius ar inventorius.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/quartz_item": [
+      null,
+      "Kvarcinis transportavimo vamzdis perneša daiktus į prijungtus vamzdžius ar inventorius.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/iron_item": [
+      null,
+      "Geležinis transportavimo vamzdis siunčia daiktus viena nustatyta kryptimi į prijungtą vamzdį ar inventorių.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/gold_item": [
+      null,
+      "Auksinis transportavimo vamzdis greitai perneša daiktus į prijungtus vamzdžius ar inventorius.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/diamond_item": [
+      null,
+      "Deimantinis transportavimo vamzdis pagal filtrą nukreipia daiktus į pasirinktą gretimą vamzdį ar inventorių.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/obsidian_item": [
+      null,
+      "Obsidianinis transportavimo vamzdis surenka pasaulyje esančius daiktus ir perduoda juos į prijungtą vamzdį ar inventorių.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/sandstone_item": [
+      null,
+      "Smiltainio transportavimo vamzdis perneša daiktus į kitus prijungtus vamzdžius ir tiesiogiai prie įprastų inventorių nesijungia.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/clay_item": [
+      null,
+      "Molinis transportavimo vamzdis perneša daiktus į prijungtus vamzdžius ar inventorius ir teikia pirmenybę inventoriaus išėjimui.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/void_item": [
+      null,
+      "Tuštumos transportavimo vamzdis sunaikina į jį patekusius daiktus.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/stripes_item": [
+      null,
+      "Dryžuotas transportavimo vamzdis gali naudoti į jį paduotus daiktus blokams laužyti, dėti ar daiktams panaudoti ir perduoti rezultatą į prijungtą vamzdį ar inventorių.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/diamond_wood_item": [
+      null,
+      "Medinis deimantinis transportavimo vamzdis, gavęs energijos, ištraukia iš inventoriaus tik filtro pasirinktus daiktus.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/lapis_item": [
+      null,
+      "Lazurito transportavimo vamzdis nuspalvina pro jį keliaujančius daiktus ir perduoda juos į prijungtus vamzdžius ar inventorius.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/daizuli_item": [
+      null,
+      "Daizuli transportavimo vamzdis pagal spalvą nukreipia gautus nuspalvintus daiktus viena kryptimi į prijungtą vamzdį ar inventorių.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/emzuli_item": [
+      null,
+      "Emzuli transportavimo vamzdis valdomas vartais ir, gavęs energijos, ištraukia iš inventoriaus filtro pasirinktus daiktus.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/wood_fluid": [
+      null,
+      "Medinis skysčių vamzdis, gavęs energijos, ištraukia skystį iš bako.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/cobble_fluid": [
+      null,
+      "Skaldos skysčių vamzdis perneša skysčius į prijungtus vamzdžius ar bakus.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/stone_fluid": [
+      null,
+      "Akmeninis skysčių vamzdis perneša skysčius į prijungtus vamzdžius ar bakus.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/quartz_fluid": [
+      null,
+      "Kvarcinis skysčių vamzdis perneša skysčius į prijungtus vamzdžius ar bakus.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/iron_fluid": [
+      null,
+      "Geležinis skysčių vamzdis siunčia skystį viena nustatyta kryptimi į prijungtą vamzdį ar baką.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/gold_fluid": [
+      null,
+      "Auksinis skysčių vamzdis greitai perneša skysčius į prijungtus vamzdžius ar bakus.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/diamond_fluid": [
+      null,
+      "Deimantinis skysčių vamzdis pagal filtrą nukreipia skysčius į pasirinktą prijungtą vamzdį ar baką.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/sandstone_fluid": [
+      null,
+      "Smiltainio skysčių vamzdis perneša skystį tarp vamzdžių ir tiesiogiai prie įprastų bakų ar mašinų nesijungia.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/clay_fluid": [
+      null,
+      "<bold>Patarimas:</bold> Molinius skysčių vamzdžius dėkite prie galutinių vartotojų, kai skystis turi pirmiausia patekti į baką ar mašiną, o ne toliau tekėti tinklu.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/void_fluid": [
+      null,
+      "Tuštumos skysčių vamzdis sunaikina į jį patekusį skystį.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/diamond_wood_fluid": [
+      null,
+      "Medinis deimantinis skysčių vamzdis, gavęs energijos, iš bako ištraukia tik pasirinktus skysčius.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/item/wire": [
+      null,
+      "Vamzdžio laidas yra prijungiamų vamzdžio priedų sistema, perduodanti signalus per visą vamzdyną.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/item/plug_power_adaptor": [
+      null,
+      "Maitinimo adapteris yra vamzdžio priedas, leidžiantis MJ Kinesis/Power Pipe tinklui maitinti suderinamus energijos reikalaujančius ištraukimo vamzdžius.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/item/plug_blocker": [
+      null,
+      "Vamzdžio kamštis yra priedas, neleidžiantis vamzdžiams ir (arba) vamzdžio laidams susijungti per tą pusę.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/trigger/items_traversing": [
+      null,
+      "„Daiktai juda vamzdžiu“ yra vartų aktyviklis, prieinamas ant transportavimo vamzdžio.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/trigger/fluids_traversing": [
+      null,
+      "„Skystis juda vamzdžiu“ yra vartų aktyviklis, prieinamas ant skysčių vamzdžio.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/trigger/pipe_empty": [
+      null,
+      "„Vamzdis tuščias“ yra vartų aktyviklis, prieinamas ant transportavimo arba skysčių vamzdžio.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/trigger/pipe_signal_active": [
+      null,
+      "„Vamzdžio signalas įjungtas“ yra vartų aktyviklis, prieinamas, kai prie to paties vamzdžio prijungtas tos pačios spalvos laidas.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/trigger/pipe_signal_inactive": [
+      null,
+      "„Vamzdžio signalas išjungtas“ yra vartų aktyviklis, prieinamas, kai prie to paties vamzdžio prijungtas tos pačios spalvos laidas.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/action/pipe_direction_north": [
+      null,
+      "„Nukreipti į šiaurę“ yra vartų veiksmas vamzdžiui, kuriam reikia krypties ir kuriam šiaurė yra leistina.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/action/pipe_direction_east": [
+      null,
+      "„Nukreipti į rytus“ yra vartų veiksmas vamzdžiui, kuriam reikia krypties ir kuriam rytai yra leistini.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/action/pipe_direction_south": [
+      null,
+      "„Nukreipti į pietus“ yra vartų veiksmas vamzdžiui, kuriam reikia krypties ir kuriam pietūs yra leistini.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/action/pipe_direction_west": [
+      null,
+      "„Nukreipti į vakarus“ yra vartų veiksmas vamzdžiui, kuriam reikia krypties ir kuriam vakarai yra leistini.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/action/pipe_direction_above": [
+      null,
+      "„Nukreipti į viršų“ yra vartų veiksmas vamzdžiui, kuriam reikia krypties ir kuriam viršus yra leistinas.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/action/pipe_direction_below": [
+      null,
+      "„Nukreipti žemyn“ yra vartų veiksmas vamzdžiui, kuriam reikia krypties ir kuriam apačia yra leistina.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/action/pipe_signal_active": [
+      null,
+      "„Vamzdžio signalas įjungtas“ yra vartų veiksmas, prieinamas, kai prie to paties vamzdžio prijungtas tos pačios spalvos laidas.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/action/pipe_colour": [
+      null,
+      "„Spalvinti daiktus“ yra vartų veiksmas, prieinamas ant Lazuli arba Daizuli transportavimo vamzdžio.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/action/extraction_preset": [
+      null,
+      "„Ištraukimo profilis“ yra vartų veiksmas, prieinamas ant Emzuli transportavimo vamzdžio.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/block/engine_basics": [
+      null,
+      "BuildCraft mašinoms ir energijos vamzdžiams kaip pagrindinę energiją naudoja MJ. Specialūs FE įrenginiai ir pasirenkamas automatinis konvertavimas suteikia suderinamumą nepakeisdami MJ tinklo.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/item/box_volume": [
+      null,
+      "Volume Box yra kilnojamas srities žymeklis, valdomas Žymeklių jungtimi.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/item/marker_land": [
+      null,
+      "Land Mark žymekliai nustato stačiakampes darbo sritis tokioms mašinoms kaip Quarry, Filler ir Architect Table.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftlib/item/guide": [
+      null,
+      "Šioje knygoje yra BuildCraft Community Edition ir įdiegtų priedų, skelbiančių Guide API puslapius, žaidimo dokumentacija.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/plug_filter": [
+      null,
+      "Filtras yra vamzdžio priedas, pritraukiantis vamzdyje esančius tos pačios spalvos daiktus ir praleidžiantis tik tos spalvos daiktus.",
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/item/map_location": [
+      null,
+      "Map Location įrašo tašką, sritį, kelią arba robotikos zoną vėlesniam naudojimui.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/item/fragile_fluid_shard": [
+      null,
+      "Trapus skysčio kristalas yra laikinas vienkryptis indas, talpinantis iki 500 mB skysčio.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftcore/block/engine_creative": [
+      null,
+      "Kūrybinis variklis be kuro gamina reguliuojamą MJ kiekį ir skirtas bandymams kūrybiniame režime.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/item/blueprint": [
+      null,
+      "Blueprint išsaugo tikslius nuskaitytos srities blokus, jų būsenas ir palaikomus blokų objektų duomenis.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/item/template": [
+      null,
+      "Template įrašo tik užimtą srities formą, kad Builder galėtų ją užpildyti pateiktomis medžiagomis.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/item/schematic_single": [
+      null,
+      "Vieno bloko schema įrašo vieną bloko būseną, skirtą Replacer įrenginiui.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/item/filler_planner": [
+      null,
+      "Filler Planner išsaugo Filler raštą ir parametrus kaip Volume Box priedą.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/block/architect": [
+      null,
+      "Architect Table nuskaito pažymėtą sritį į Blueprint arba Template.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/block/builder": [
+      null,
+      "Builder naudoja MJ ir medžiagas, kad pastatytų panaudotame Blueprint arba Template aprašytą konstrukciją.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/block/filler": [
+      null,
+      "Filler pažymėtoje srityje pritaiko pasirenkamą geometrinį raštą.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/block/library": [
+      null,
+      "Elektroninė biblioteka perduoda Blueprint ir Template duomenis tarp momentinių kopijų daiktų ir išsaugotos momentinių kopijų duomenų bazės.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/block/replacer": [
+      null,
+      "Replacer pakeičia kiekvieną atitinkantį panaudoto Blueprint bloką iš vienos įrašytos būsenos į kitą.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/block/marker_construction": [
+      null,
+      "Construction Marker pateikia Blueprint statybos užduotis Builder robotams.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/block/frame": [
+      null,
+      "Rėmai yra lengvi konstrukciniai blokai, naudojami Quarry ir statybos sistemose.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftbuilders/block/quarry": [
+      null,
+      "Quarry pastato rėmą ir automatiškai iškasa visus leidžiamus blokus pasirinktoje srityje.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/item/robot": [
+      null,
+      "Robotas yra mobilus darbuotojas, kurio elgesį nustato įdiegta Redstone Board.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/item/redstone_board": [
+      null,
+      "Redstone Board saugo profesijos programą, įdiegtą į robotą.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/item/robot_station": [
+      null,
+      "Dokavimo stotelė yra vamzdžio priedas, susiejantis, įkraunantis ir valdantis robotus.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/block/zone_planner": [
+      null,
+      "Zone Planner ant Map Location nubraižo detalias daugiasluoksnes robotų darbo zonas.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/block/requester": [
+      null,
+      "Requester palaiko nustatytus daiktų kiekius ir trūkstamą kiekį pateikia Delivery robotams kaip užsakymą.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/picker": [
+      null,
+      "Picker robotas surenka darbo zonoje numestus daiktus, taiko susietos stotelės daiktų filtrą ir grįžta jų iškrauti.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/carrier": [
+      null,
+      "Carrier robotas pakrauna tinkamus daiktus iš tiekiančios stotelės ir nuneša juos į kitą stotelę, galinčią juos priimti.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/fluid_carrier": [
+      null,
+      "Tank robotas perneša skysčius tarp stotelių ir bakų, o stotelės skysčių filtras nustato, ką galima pakrauti ar iškrauti.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/lumberjack": [
+      null,
+      "Lumberjack robotas pasiima tinkamą kirvį ir nukerta darbo zonoje rastų medžių susijungusius rąstus.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/harvester": [
+      null,
+      "Harvester robotas darbo zonoje randa subrendusius augalus, juos nuima ir grąžina derlių į stotelę.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/miner": [
+      null,
+      "Miner robotas pasiima kirtiklį ir kasa pasiekiamus rūdos blokus savo darbo zonoje.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/planter": [
+      null,
+      "Planter robotas pakrauna tinkamas sėklas ir pasodina jas tinkamose darbo zonos dirvos vietose.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/farmer": [
+      null,
+      "Farmer robotas pasiima kauptuką ir paruošia tinkamus žemės ar žolės blokus sodinimui.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/leave_cutter": [
+      null,
+      "Leaf Cutter robotas pasiima tinkamą pjovimo įrankį ir pašalina lapų blokus darbo zonoje.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/butcher": [
+      null,
+      "Butcher robotas pasiima kardą ir medžioja tinkamus pasyvius gyvūnus, vengdamas kačių, šunų ir saugomų prijaukintų gyvūnų.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/shovelman": [
+      null,
+      "Shovelman robotas pasiima kastuvą ir darbo zonoje kasa blokus, kuriuos galima kasti kastuvu.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/pump": [
+      null,
+      "Pump robotas siurbia tinkamus pasaulio skysčių blokus į vidinį baką ir grįžta į stotelę skysčio iškrauti.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/delivery": [
+      null,
+      "Delivery robotas vykdo Requester ir stotelės užklausų veiksmų pateiktus daiktų užsakymus.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/knight": [
+      null,
+      "Knight robotas pasiima ginklą ir puola priešiškas būtybes paskirtoje darbo zonoje.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/bomber": [
+      null,
+      "Bomber robotas pakrauna TNT, skrenda virš tinkamo darbo zonos paviršiaus ir numeta uždegtus sprogmenis.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/stripes": [
+      null,
+      "Stripes robotas pakrauna panaudojamus daiktus ir laisviems tiksliniams blokams taiko tuos pačius daiktų naudojimo veiksmus kaip Stripes Transport Pipe.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/robot/builder": [
+      null,
+      "Builder robotas randa netoliese esančius Builder įrenginius ar Construction Markers, rezervuoja statybos užduotis, atneša medžiagas ir atlieka darbą.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/trigger/in_station": [
+      null,
+      "Šis aktyviklis veikia, kol robotas yra prisijungęs prie stotelės.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/trigger/sleep": [
+      null,
+      "Šis aktyviklis veikia, kol susietas robotas miega ir laukia darbo.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/trigger/linked": [
+      null,
+      "Šis aktyviklis veikia, kai stotelė turi susietą robotą, nesvarbu, ar jis tuo metu prijungtas.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/trigger/reserved": [
+      null,
+      "Šis aktyviklis veikia, kol stotelė arba robotas yra rezervuoti operacijai.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/work_filter": [
+      null,
+      "Nustato daiktų arba skysčių filtrą, naudojamą robotų darbui ir stotelės pakrovimui. Filtrą galima susiaurinti daikto, skysčio arba Sąrašo parametrais.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/work_filter_tool": [
+      null,
+      "Apriboja, kokius įrankius gali pasiimti profesija, kuriai reikia įrankių.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/goto_station": [
+      null,
+      "Kai vartų sąlyga aktyvi, liepia susietam robotui grįžti į šią dokavimo stotelę.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/wakeup": [
+      null,
+      "Pažadina miegantį susietą robotą, kad jis vėl ieškotų darbo.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/work_in_area": [
+      null,
+      "Priskiria Map Location zoną kaip roboto darbo sritį.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/load_unload_area": [
+      null,
+      "Apriboja sritį, kurioje robotas gali ieškoti pakrovimo ir iškrovimo stotelių.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/accept_fluids": [
+      null,
+      "Leidžia robotams iškrauti tinkamus skysčius į šią stotelę arba jos prijungtus skysčių tvarkytuvus.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/accept_items": [
+      null,
+      "Leidžia robotams iškrauti tinkamus daiktus į šią stotelę arba jos prijungtą inventorių.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/forbid_robot": [
+      null,
+      "Kol veiksmas aktyvus, robotai negali pasirinkti šios stotelės.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/force_robot": [
+      null,
+      "Kol veiksmas aktyvus, susietas robotas teikia pirmenybę šiai stotelei arba į ją grįžta.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/provide_fluids": [
+      null,
+      "Paskelbia šioje stotelėje esančius tinkamus skysčius robotams, kuriems reikia juos pakrauti.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/provide_items": [
+      null,
+      "Paskelbia šioje stotelėje esančius tinkamus daiktus robotams, kuriems reikia juos pakrauti.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/request_items": [
+      null,
+      "Sukuria daiktų užsakymus, kuriuos gali įvykdyti Delivery robotai.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftrobotics/action/provide_machine_request": [
+      null,
+      "Pateikia gretimos suderinamos mašinos sukurtus daiktų užsakymus Delivery robotams.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/item/water_gel": [
+      null,
+      "Water Gelifier paverčia prijungtą vandens šaltinį ir vandens augalus laikinu Water Gel.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftfactory/item/gel": [
+      null,
+      "Gelifikuotas vanduo yra kieta medžiaga, gaunama iš Water Gel.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/block/laser": [
+      null,
+      "Lazeris paverčia MJ lazerio energija, skirta netoliese esantiems suderinamiems BuildCraft stalams.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/block/assembly_table": [
+      null,
+      "Assembly Table naudoja lazerio energiją BuildCraft komponentams ir prijungiamiems priedams gaminti.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/block/charging_table": [
+      null,
+      "Charging Table naudoja lazerio energiją Forge Energy daiktams įkrauti.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/block/integration_table": [
+      null,
+      "Integration Table, naudodamas lazerio energiją, įdiegia suderinamus patobulinimus ar komponentus į pasirinktą daiktą.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/block/advanced_crafting_table": [
+      null,
+      "Advanced Crafting Table automatiškai kartoja nustatytą receptą, naudodamas tiekiamas medžiagas ir MJ.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/block/programming_table": [
+      null,
+      "Programming Table lazerio energija įrašo pasirinktą roboto profesiją į tuščią Redstone Board.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/redstone_crystal": [
+      null,
+      "Redstone Crystal yra Assembly Table komponentas, naudojamas pažangiuose BuildCraft receptuose.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/gate_copier": [
+      null,
+      "Gate Copier išsaugo vieną vartų konfigūraciją ir pritaiko ją suderinamiems vartams.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/plug_timer": [
+      null,
+      "Laikmatis yra vamzdžio priedas, pridedantis periodinius 5, 10 ir 15 sekundžių vartų aktyviklius.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/chipset_red": [
+      null,
+      "Raudonas mikroschemų rinkinys yra pagrindinis raudonojo akmens loginis komponentas, naudojamas vartuose ir kituose Silicon receptuose.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/chipset_iron": [
+      null,
+      "Geležinis mikroschemų rinkinys yra geležies pakopos loginis komponentas, naudojamas stipresniuose vartuose ir mašinose.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/chipset_gold": [
+      null,
+      "Auksinis mikroschemų rinkinys yra aukso pakopos loginis komponentas, naudojamas didelės galios vartų ir mašinų receptuose.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/chipset_quartz": [
+      null,
+      "Kvarcinis mikroschemų rinkinys yra kvarco loginis komponentas, naudojamas parametrų ir laiko valdymo receptuose.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/item/chipset_diamond": [
+      null,
+      "Deimantinis mikroschemų rinkinys yra aukščiausias standartinis rinkinys, naudojamas pažangiems vartų plėtiniams ir tikslioms mašinoms.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/trigger/timer_short": [
+      null,
+      "Kol prie vamzdžio pritvirtintas laikmatis, šis aktyviklis suveikia kartą kas 5 sekundes.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/trigger/timer_medium": [
+      null,
+      "Kol prie vamzdžio pritvirtintas laikmatis, šis aktyviklis suveikia kartą kas 10 sekundžių.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftsilicon/trigger/timer_long": [
+      null,
+      "Kol prie vamzdžio pritvirtintas laikmatis, šis aktyviklis suveikia kartą kas 15 sekundžių.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/wood_power": [
+      null,
+      "Medinis energijos vamzdis ištraukia MJ iš suderinamų gretimų gamintojų ir įleidžia jį į energijos vamzdžių tinklą.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/cobblestone_power": [
+      null,
+      "Skaldos energijos vamzdis yra bazinis mažos talpos MJ transportavimo vamzdis.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/stone_power": [
+      null,
+      "Akmeninis energijos vamzdis yra bendros paskirties mažos talpos MJ transportavimo vamzdis.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/sandstone_power": [
+      null,
+      "Smiltainio energijos vamzdis perduoda MJ tarp vamzdžių, tačiau tiesiogiai prie gretimų mašinų nesijungia.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/quartz_power": [
+      null,
+      "Kvarcinis energijos vamzdis yra vidutinės talpos MJ transportavimo vamzdis, atskirtas nuo akmens ir skaldos vamzdžių šeimų.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/gold_power": [
+      null,
+      "Auksinis energijos vamzdis yra didelės talpos MJ transportavimo vamzdis.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/iron_power": [
+      null,
+      "Geležinis energijos vamzdis yra reguliuojamas MJ perdavimo ribotuvas.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/diamond_power": [
+      null,
+      "Deimantinis energijos vamzdis yra labai didelės talpos reguliuojamas MJ perdavimo ribotuvas.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/diamond_wood_power": [
+      null,
+      "Medinis deimantinis energijos vamzdis yra didelės talpos MJ ištraukimo vamzdis.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/item/waterproof": [
+      null,
+      "Vamzdžių sandariklis yra gamybos komponentas, naudojamas transportavimo medžiagoms paversti skysčių vamzdžių komponentais.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/block/filtered_buffer": [
+      null,
+      "Filtruotas buferis yra devynių lizdų inventorius, kurio tikruosius lizdus valdo atitinkami virtualūs filtrai.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/oil": [
+      null,
+      "Nafta yra natūraliai pasaulyje susidarantis pradinis BuildCraft kuro apdorojimo grandinės išteklius.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/oil_residue": [
+      null,
+      "Likutis yra sunkus nešvaraus kuro ir kelių aukštos temperatūros distiliavimo kelių šalutinis produktas.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/oil_heavy": [
+      null,
+      "Sunkioji nafta yra nešvarus tarpinis kuras, gaunamas distiliuojant Cool Oil.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/oil_dense": [
+      null,
+      "Tirštoji nafta yra nešvarus tarpinis kuras, gaunamas iš Hot Oil arba Hot Distilled Oil.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/oil_distilled": [
+      null,
+      "Distiliuota nafta yra švariai degantis tarpinis produktas, kuriame yra dujinio, lengvojo ir tankiojo kuro frakcijų.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/fuel_gaseous": [
+      null,
+      "Dujinis kuras yra didžiausios galios rafinuotas degimo variklio kuras: 8 MJ/t be likučių.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/fuel_light": [
+      null,
+      "Lengvasis kuras yra švarus rafinuotas kuras, degimo variklyje gaminantis 6 MJ/t.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/fuel_dense": [
+      null,
+      "Tankusis kuras yra švarus rafinuotas kuras, gaminantis 4 MJ/t ir degantis ilgai.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/fuel_mixed_light": [
+      null,
+      "Mišrus lengvasis kuras yra švarus tarpinis produktas ir tinkamas 3 MJ/t degimo variklio kuras.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/item/fuel_mixed_heavy": [
+      null,
+      "Mišrus sunkusis kuras yra švarus tarpinis produktas ir tinkamas 5 MJ/t degimo variklio kuras.",
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftcompat/pipe/propolis_item": [
+      null,
+      "Bitininko vamzdis yra su Forestry suderinamas daiktų vamzdis, nukreipiantis genetinius daiktus pagal atskirą kiekvienos pusės filtrą.",
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/block/engine_fe": [
+      null,
+      "FE variklis sunaudoja Forge Energy, paverčia ją MJ ir veikia kaip kryptinis BuildCraft variklis.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcraftenergy/block/mj_dynamo": [
+      null,
+      "MJ dinama sunaudoja BuildCraft MJ ir per kryptinę išėjimo pusę gamina Forge Energy.",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/wood_fe": [
+      null,
+      "Medinis FE vamzdis ištraukia FE iš gretimo energijos šaltinio ir įleidžia ją į FE vamzdžių tinklą.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/cobblestone_fe": [
+      null,
+      "Skaldos FE vamzdis yra bazinis mažos talpos FE transportavimo vamzdis.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/stone_fe": [
+      null,
+      "Akmeninis FE vamzdis yra bendros paskirties mažos talpos FE transportavimo vamzdis.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/sandstone_fe": [
+      null,
+      "Smiltainio FE vamzdis perduoda FE tarp vamzdžių, tačiau tiesiogiai prie gretimų mašinų nesijungia.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/quartz_fe": [
+      null,
+      "Kvarcinis FE vamzdis yra vidutinės talpos FE transportavimo vamzdis.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/gold_fe": [
+      null,
+      "Auksinis FE vamzdis yra didelės talpos FE transportavimo vamzdis.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/iron_fe": [
+      null,
+      "Geležinis FE vamzdis yra reguliuojamas FE perdavimo ribotuvas.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/diamond_fe": [
+      null,
+      "Deimantinis FE vamzdis yra labai didelės talpos reguliuojamas FE perdavimo ribotuvas.",
+      null,
+      null,
+      null
+    ],
+    "buildcrafttransport/pipe/diamond_wood_fe": [
+      null,
+      "Medinis deimantinis FE vamzdis yra didelės talpos FE ištraukimo vamzdis.",
+      null,
+      null,
+      null
+    ]
+  }
+}
