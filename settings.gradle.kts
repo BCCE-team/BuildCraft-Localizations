@@ -20,6 +20,7 @@ stonecutter {
         version("1.20.1-forge", "1.20.1")
         version("1.21.1-forge", "1.21.1")
         version("1.21.1-neoforge", "1.21.1")
+        version("1.21.11-neoforge", "1.21.11")
     }
 
     create(rootProject)

@@ -9,6 +9,7 @@ The addon contains every bundled BCCE and ITCE translation except `en_us`. Engli
 - Minecraft 1.19.2 — Forge
 - Minecraft 1.20.1 — Forge
 - Minecraft 1.21.1 — NeoForge
+- Minecraft 1.21.11 — NeoForge
 
 All targets live in this single branch and are managed by Stonecutter.
 
