@@ -3,193 +3,193 @@
   "language": "sr_sp",
   "pages": {
     "irontanks/block/copper_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 27 kanti (27,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Više prostora nego u običnom staklenom rezervoaru.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 27 kanti (27.000 mB).",
+      "Nadogradi BuildCraft stakleni rezervoar. Zatim možeš da biraš gvožđe ili srebro.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/iron_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 32 kanti (32,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Praktično proširenje za tvoje zalihe tečnosti.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 32 kante (32.000 mB).",
+      "Može nastati nadogradnjom staklenog ili bakarnog rezervoara. Sledeći je zlatni.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/silver_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 43 kanti (43,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Alternativni put nadogradnje posle bakra.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 43 kante (43.000 mB).",
+      "Nadogradi bakarni rezervoar. Odatle možeš preći na zlatni.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/gold_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 48 kanti (48,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Prostor za veće sisteme cevi i mašina.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 48 kanti (48.000 mB).",
+      "Dobija se nadogradnjom gvozdenog ili srebrnog rezervoara. Sledeći je dijamantski.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/diamond_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 64 kanti (64,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Dobar izbor kada treba mnogo tečnosti na jednom mestu.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 64 kante (64.000 mB).",
+      "Nadogradi zlatni rezervoar. Dalje možeš birati opsidijan, smaragd ili aluminijum.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/obsidian_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 64 kanti (64,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Nije veći od dijamantskog, ali je mnogo otporniji.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 64 kante (64.000 mB).",
+      "Kapacitet je isti kao kod dijamantskog rezervoara. Prednost je znatno veća otpornost na eksplozije.",
+      "Upotreba",
+      "Povezuje se sa ostalim kompatibilnim rezervoarima i cevima kao i drugi rezervoari, ali mnogo bolje podnosi eksplozije."
     ],
     "irontanks/block/emerald_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 96 kanti (96,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Za postrojenja koja troše ogromne količine tečnosti.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 96 kanti (96.000 mB).",
+      "Nadogradi dijamantski rezervoar. Sledeći korak je nerđajući čelik.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/aluminium_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 96 kanti (96,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Druga grana nadogradnje posle dijamantskog rezervoara.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 96 kanti (96.000 mB).",
+      "Nadogradi dijamantski rezervoar. Sledeći korak je nerđajući čelik.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/stainlesssteel_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 128 kanti (128,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Ozbiljan kapacitet za ozbiljna postrojenja.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 128 kanti (128.000 mB).",
+      "Može nastati od smaragdnog ili aluminijumskog rezervoara. Dalje se nadograđuje u titanijumski.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/titanium_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 256 kanti (256,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Dovoljno prostora i za velika postrojenja.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 256 kanti (256.000 mB).",
+      "Nadogradi rezervoar od nerđajućeg čelika. Sledeći je volframov čelik.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/tungstensteel_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Rezervoar kompatibilan sa BuildCraft-om, kapaciteta 512 kanti (512,000 mB).",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Postavite kompatibilne rezervoare neposredno jedan iznad drugog da biste napravili vertikalnu kolonu tečnosti. BuildCraft cevi i mašine pristupaju ugrađenoj mogućnosti rezervoara."
+      "Najveći rezervoar za uobičajeno skladištenje.",
+      "Rezervoar kompatibilan sa BuildCraft-om. U jedan blok staje 512 kanti (512.000 mB).",
+      "Nadogradi titanijumski rezervoar. U jednoj kocki drži čak 512 kanti tečnosti.",
+      "Upotreba",
+      "Postavi kompatibilne rezervoare jedan iznad drugog kako bi se povezali. Tečnost sipaj i izvlači kantama ili BuildCraft cevima za tečnosti."
     ],
     "irontanks/block/void_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Kompaktan rezervoar za odlaganje koji neprekidno uništava do 80 mB uskladištene tečnosti po tiku.",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Može se vertikalno spojiti sa kompatibilnim rezervoarima. Tečnost koja stigne u ovaj rezervoar trajno se briše; nemojte ga koristiti za vredne tečnosti."
+      "Višak tečnosti nestaje zauvek.",
+      "Uništava do 80 mB tečnosti iz svog sadržaja po jednom tiku igre.",
+      "Ovo je rezervoar za odlaganje, ne za čuvanje dragocenih tečnosti.",
+      "Odlaganje tečnosti",
+      "Može se vertikalno povezati sa kompatibilnim rezervoarima i primati tečnost iz cevi. Tečnost koja uđe postepeno nestaje."
     ],
     "irontanks/block/creative_tank": [
-      "Više prostora za tečnosti koje pokreću industriju.",
-      "Izvorni rezervoar samo za kreativni režim. Kada se napuni jednom tečnošću, pražnjenje daje tu tečnost bez smanjivanja uskladištene količine.",
-      "Nadogradnjama rezervoara možete promeniti nivo bez gubitka uskladištene tečnosti.",
-      "Rad",
-      "Kreativni rezervoar namerno odbija vertikalne veze sa drugim rezervoarima kako bi sprečio neodređene lance balansiranja beskonačne tečnosti."
+      "Neiscrpan izvor tečnosti u kreativnom režimu.",
+      "Prvo ga napuni željenom tečnošću. Zatim je izvlači bez smanjivanja količine u rezervoaru.",
+      "Za razliku od običnih rezervoara, ne povezuje se vertikalno sa drugim rezervoarima.",
+      "Beskonačan izvor",
+      "Cevi i drugi sistemi mogu izvlačiti tečnost iz rezervoara, ali se količina pri tome ne smanjuje."
     ],
     "irontanks/item/glass_copper_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
-      "Pretvara stakleni rezervoar u bakarni rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
+      "Pretvara BuildCraft stakleni rezervoar u bakarni rezervoar na istom mestu.",
+      "Novi rezervoar ima kapacitet od 27 kanti. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/glass_iron_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
-      "Pretvara stakleni rezervoar u gvozdeni rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
+      "Pretvara BuildCraft stakleni rezervoar u gvozdeni rezervoar na istom mestu.",
+      "Novi rezervoar ima kapacitet od 32 kante. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/copper_iron_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
       "Pretvara bakarni rezervoar u gvozdeni rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Novi rezervoar ima kapacitet od 32 kante. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/copper_silver_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
       "Pretvara bakarni rezervoar u srebrni rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Novi rezervoar ima kapacitet od 43 kante. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/iron_gold_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
       "Pretvara gvozdeni rezervoar u zlatni rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Novi rezervoar ima kapacitet od 48 kanti. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/silver_gold_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
       "Pretvara srebrni rezervoar u zlatni rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Novi rezervoar ima kapacitet od 48 kanti. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/gold_diamond_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
       "Pretvara zlatni rezervoar u dijamantski rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Novi rezervoar ima kapacitet od 64 kante. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/diamond_obsidian_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
+      "Ista zapremina, mnogo bolja zaštita.",
       "Pretvara dijamantski rezervoar u opsidijanski rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Oba rezervoara imaju kapacitet od 64 kante. Opsidijanski je znatno otporniji na eksplozije.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/diamond_emerald_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
       "Pretvara dijamantski rezervoar u smaragdni rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Novi rezervoar ima kapacitet od 96 kanti. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/diamond_aluminium_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
       "Pretvara dijamantski rezervoar u aluminijumski rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Novi rezervoar ima kapacitet od 96 kanti. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/emerald_stainlesssteel_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
-      "Pretvara smaragdni rezervoar u od nerđajućeg čelika rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
+      "Pretvara smaragdni rezervoar u rezervoar od nerđajućeg čelika na istom mestu.",
+      "Novi rezervoar ima kapacitet od 128 kanti. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/aluminium_stainlesssteel_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
-      "Pretvara aluminijumski rezervoar u od nerđajućeg čelika rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
+      "Pretvara aluminijumski rezervoar u rezervoar od nerđajućeg čelika na istom mestu.",
+      "Novi rezervoar ima kapacitet od 128 kanti. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/stainlesssteel_titanium_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
-      "Pretvara od nerđajućeg čelika rezervoar u titanijumski rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
+      "Pretvara rezervoar od nerđajućeg čelika u titanijumski rezervoar na istom mestu.",
+      "Novi rezervoar ima kapacitet od 256 kanti. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ],
     "irontanks/item/titanium_tungstensteel_upgrade": [
-      "Nadogradite rezervoar umesto da prebacujete svu tečnost.",
-      "Pretvara titanijumski rezervoar u od volfram čelika rezervoar na istom mestu.",
-      "Upotrebite nadogradnju na odgovarajućem bloku rezervoara.",
-      "Čuvanje tečnosti",
-      "Server zamenjuje blok i kopira ceo sadržaj tečnosti u novi BuildCraft rezervoar pre nego što potroši predmet za nadogradnju."
+      "Nadogradi rezervoar bez pretakanja tečnosti.",
+      "Pretvara titanijumski rezervoar u rezervoar od volframovog čelika na istom mestu.",
+      "Novi rezervoar ima kapacitet od 512 kanti. Upotrebi nadogradnju na odgovarajućem bloku.",
+      "Tečnost se čuva",
+      "Nadogradnja menja rezervoar na mestu i prenosi svu tečnost u novi blok. Ne moraš prethodno da ga prazniš ili skidaš cevi."
     ]
   }
 }

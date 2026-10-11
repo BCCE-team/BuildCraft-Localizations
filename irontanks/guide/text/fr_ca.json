@@ -80,116 +80,116 @@
       "Placez des réservoirs compatibles directement les uns au-dessus ou au-dessous des autres pour former une colonne verticale de fluide. Les tuyaux et machines BuildCraft utilisent la capacité de fluide native du réservoir."
     ],
     "irontanks/block/void_tank": [
-      "Plus de place pour les fluides qui font tourner l’industrie.",
+      "Un réservoir spécialisé pour gérer les fluides autrement.",
       "Un réservoir compact d’élimination qui détruit en continu jusqu’à 80 mB de fluide stocké par tick.",
-      "Utilisez les améliorations de réservoir pour conserver le fluide stocké lors d’un changement de niveau.",
+      "Ce réservoir spécial possède ses propres règles de fonctionnement ; vérifiez-les avant de le connecter à un réseau.",
       "Fonctionnement",
       "Il peut se connecter verticalement à des réservoirs compatibles. Le fluide qui atteint ce réservoir est supprimé; ne l’utilisez pas pour des fluides précieux."
     ],
     "irontanks/block/creative_tank": [
-      "Plus de place pour les fluides qui font tourner l’industrie.",
+      "Un réservoir spécialisé pour gérer les fluides autrement.",
       "Un réservoir source réservé au mode créatif. Une fois rempli d’un fluide, il peut en fournir à l’infini sans réduire la quantité stockée.",
-      "Utilisez les améliorations de réservoir pour conserver le fluide stocké lors d’un changement de niveau.",
+      "Ce réservoir spécial possède ses propres règles de fonctionnement ; vérifiez-les avant de le connecter à un réseau.",
       "Fonctionnement",
       "Le réservoir créatif refuse volontairement les connexions verticales afin d’éviter des chaînes ambiguës d’équilibrage infini."
     ],
     "irontanks/item/glass_copper_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en verre BuildCraft en Réservoir en cuivre sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en verre BuildCraft en réservoir en cuivre.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/glass_iron_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en verre BuildCraft en Réservoir en fer sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en verre BuildCraft en réservoir en fer.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/copper_iron_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en cuivre en Réservoir en fer sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en cuivre en réservoir en fer.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/copper_silver_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en cuivre en Réservoir en argent sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en cuivre en réservoir en argent.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/iron_gold_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en fer en Réservoir en or sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en fer en réservoir en or.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/silver_gold_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en argent en Réservoir en or sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en argent en réservoir en or.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/gold_diamond_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en or en Réservoir en diamant sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en or en réservoir en diamant.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/diamond_obsidian_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en diamant en Réservoir en obsidienne sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en diamant en réservoir en obsidienne.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/diamond_emerald_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en diamant en Réservoir en émeraude sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en diamant en réservoir en émeraude.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/diamond_aluminium_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en diamant en Réservoir en aluminium sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en diamant en réservoir en aluminium.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/emerald_stainlesssteel_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en émeraude en Réservoir en acier inoxydable sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en émeraude en réservoir en acier inoxydable.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/aluminium_stainlesssteel_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en aluminium en Réservoir en acier inoxydable sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en aluminium en réservoir en acier inoxydable.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/stainlesssteel_titanium_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en acier inoxydable en Réservoir en titane sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en acier inoxydable en réservoir en titane.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ],
     "irontanks/item/titanium_tungstensteel_upgrade": [
-      "Améliorez le contenant, pas le travail de nettoyage.",
-      "Convertit Réservoir en titane en Réservoir en acier au tungstène sur place.",
-      "Utilisez l’amélioration sur le bloc de réservoir correspondant.",
+      "Améliorez le réservoir sans devoir transvaser son contenu.",
+      "Transforme sur place le réservoir en titane en réservoir en acier au tungstène.",
+      "Utilisez l’amélioration sur le réservoir du niveau correspondant.",
       "Conservation du fluide",
-      "Le bloc est remplacé sur le serveur et toute sa pile de fluide est copiée dans le nouveau réservoir BuildCraft avant que l’objet d’amélioration soit consommé."
+      "Le bloc est remplacé côté serveur. Le fluide stocké est transféré intégralement dans le nouveau réservoir avant que l’objet d’amélioration soit consommé."
     ]
   }
 }

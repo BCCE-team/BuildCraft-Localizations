@@ -3,193 +3,193 @@
   "language": "it_it",
   "pages": {
     "irontanks/block/copper_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 27 secchi (27.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 27 secchi (27.000 mB).",
+      "I potenziamenti aumentano la capacità del serbatoio senza perderne il contenuto.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/iron_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 32 secchi (32.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 32 secchi (32.000 mB).",
+      "I potenziamenti aumentano la capacità del serbatoio senza perderne il contenuto.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/silver_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 43 secchi (43.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 43 secchi (43.000 mB).",
+      "I potenziamenti aumentano la capacità del serbatoio senza perderne il contenuto.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/gold_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 48 secchi (48.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 48 secchi (48.000 mB).",
+      "I potenziamenti aumentano la capacità del serbatoio senza perderne il contenuto.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/diamond_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 64 secchi (64.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 64 secchi (64.000 mB).",
+      "I potenziamenti aumentano la capacità del serbatoio senza perderne il contenuto.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/obsidian_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 64 secchi (64.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 64 secchi (64.000 mB).",
+      "Questo serbatoio non ha ulteriori potenziamenti disponibili.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/emerald_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 96 secchi (96.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 96 secchi (96.000 mB).",
+      "I potenziamenti aumentano la capacità del serbatoio senza perderne il contenuto.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/aluminium_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 96 secchi (96.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 96 secchi (96.000 mB).",
+      "I potenziamenti aumentano la capacità del serbatoio senza perderne il contenuto.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/stainlesssteel_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 128 secchi (128.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 128 secchi (128.000 mB).",
+      "I potenziamenti aumentano la capacità del serbatoio senza perderne il contenuto.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/titanium_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 256 secchi (256.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 256 secchi (256.000 mB).",
+      "I potenziamenti aumentano la capacità del serbatoio senza perderne il contenuto.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/tungstensteel_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
-      "Un serbatoio compatibile con BuildCraft con una capacità di 512 secchi (512.000 mB).",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Più spazio per conservare i fluidi della tua fabbrica.",
+      "Un serbatoio compatibile con BuildCraft che può contenere 512 secchi (512.000 mB).",
+      "Questo serbatoio non ha ulteriori potenziamenti disponibili.",
       "Funzionamento",
-      "I serbatoi compatibili possono essere impilati verticalmente per formare una colonna di fluido. I tubi e le macchine di BuildCraft vi accedono tramite la capacità fluidi nativa."
+      "I serbatoi possono essere impilati verticalmente per formare una colonna. I tubi e le macchine di BuildCraft possono immettere ed estrarre fluidi normalmente."
     ],
     "irontanks/block/void_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
+      "Un modo semplice per eliminare i fluidi in eccesso.",
       "Un serbatoio compatto di smaltimento che distrugge continuamente fino a 80 mB di fluido immagazzinato per tick.",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Questo serbatoio smaltisce i fluidi anziché conservarli a lungo termine.",
       "Funzionamento",
       "Può collegarsi verticalmente ai serbatoi compatibili. Il fluido che entra in questo serbatoio viene eliminato definitivamente."
     ],
     "irontanks/block/creative_tank": [
-      "Più spazio per i fluidi che tengono in funzione l’industria.",
+      "Una fonte inesauribile di fluidi per la modalità Creativa.",
       "Un serbatoio-sorgente per la modalità Creativa. Dopo aver inserito un tipo di fluido, può erogarlo senza ridurre la quantità immagazzinata.",
-      "I potenziamenti cambiano il livello del serbatoio conservando il fluido contenuto.",
+      "Una volta scelto un fluido, puoi estrarlo senza esaurire la scorta.",
       "Funzionamento",
-      "Il Serbatoio creativo non si collega verticalmente ad altri serbatoi, intenzionalmente, per evitare catene di bilanciamento con fluido infinito."
+      "Il serbatoio creativo non si collega verticalmente ad altri serbatoi, per evitare di distribuire fluido infinito attraverso una colonna."
     ],
     "irontanks/item/glass_copper_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di vetro in un serbatoio di rame.",
+      "Trasforma direttamente un serbatoio di vetro in un serbatoio di rame.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/glass_iron_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di vetro in un serbatoio di ferro.",
+      "Trasforma direttamente un serbatoio di vetro in un serbatoio di ferro.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/copper_iron_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di rame in un serbatoio di ferro.",
+      "Trasforma direttamente un serbatoio di rame in un serbatoio di ferro.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/copper_silver_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di rame in un serbatoio di argento.",
+      "Trasforma direttamente un serbatoio di rame in un serbatoio di argento.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/iron_gold_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di ferro in un serbatoio di oro.",
+      "Trasforma direttamente un serbatoio di ferro in un serbatoio di oro.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/silver_gold_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di argento in un serbatoio di oro.",
+      "Trasforma direttamente un serbatoio di argento in un serbatoio di oro.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/gold_diamond_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di oro in un serbatoio di diamante.",
+      "Trasforma direttamente un serbatoio di oro in un serbatoio di diamante.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/diamond_obsidian_upgrade": [
-      "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di diamante in un serbatoio di ossidiana.",
+      "Cambia il materiale del serbatoio senza perdere il fluido.",
+      "Trasforma direttamente un serbatoio di diamante in un serbatoio di ossidiana.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: il materiale cambia e il fluido già presente viene conservato."
     ],
     "irontanks/item/diamond_emerald_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di diamante in un serbatoio di smeraldo.",
+      "Trasforma direttamente un serbatoio di diamante in un serbatoio di smeraldo.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/diamond_aluminium_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di diamante in un serbatoio di alluminio.",
+      "Trasforma direttamente un serbatoio di diamante in un serbatoio di alluminio.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/emerald_stainlesssteel_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di smeraldo in un serbatoio di acciaio inossidabile.",
+      "Trasforma direttamente un serbatoio di smeraldo in un serbatoio di acciaio inossidabile.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/aluminium_stainlesssteel_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di alluminio in un serbatoio di acciaio inossidabile.",
+      "Trasforma direttamente un serbatoio di alluminio in un serbatoio di acciaio inossidabile.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/stainlesssteel_titanium_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di acciaio inossidabile in un serbatoio di titanio.",
+      "Trasforma direttamente un serbatoio di acciaio inossidabile in un serbatoio di titanio.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ],
     "irontanks/item/titanium_tungstensteel_upgrade": [
       "Aumenta la capacità, non il lavoro manuale.",
-      "Converte direttamente nel mondo un serbatoio di titanio in un serbatoio di acciaio al tungsteno.",
+      "Trasforma direttamente un serbatoio di titanio in un serbatoio di acciaio al tungsteno.",
       "Usa l’oggetto di potenziamento sul serbatoio corrispondente.",
       "Conservazione del fluido",
-      "Il server sostituisce prima il blocco, copia l’intera pila di fluido nel nuovo serbatoio e solo dopo consuma l’oggetto di potenziamento."
+      "Usa il potenziamento sul serbatoio adatto: la capacità aumenta e il fluido già presente viene conservato."
     ]
   }
 }

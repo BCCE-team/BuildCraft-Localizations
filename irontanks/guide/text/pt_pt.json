@@ -5,191 +5,191 @@
     "irontanks/block/copper_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 27 baldes (27 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/iron_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 32 baldes (32 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/silver_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 43 baldes (43 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/gold_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 48 baldes (48 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/diamond_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 64 baldes (64 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/obsidian_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 64 baldes (64 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/emerald_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 96 baldes (96 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/aluminium_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 96 baldes (96 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/stainlesssteel_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 128 baldes (128 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/titanium_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 256 baldes (256 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/tungstensteel_tank": [
       "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
       "Um tanque compatível com o BuildCraft com capacidade para 512 baldes (512 000 mB).",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "As melhorias de tanque permitem aumentar a capacidade sem perder o fluido armazenado.",
       "Funcionamento",
-      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e máquinas do BuildCraft acedem-lhe através da capacidade de fluidos nativa."
+      "Os tanques compatíveis podem ser empilhados verticalmente para formar uma coluna de fluido. Os tubos e as máquinas do BuildCraft acedem ao conteúdo através das interfaces de fluidos compatíveis."
     ],
     "irontanks/block/void_tank": [
-      "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
-      "Um tanque compacto de eliminação que destrói continuamente até 80 mB de fluido armazenado por tick.",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "Elimina automaticamente fluidos que já não são necessários.",
+      "Destrói até 80 mB de fluido por tick.",
+      "A eliminação é permanente: não é possível recuperar o fluido destruído.",
       "Funcionamento",
-      "Pode ligar-se verticalmente a tanques compatíveis. O fluido que entra neste tanque é eliminado de forma permanente."
+      "Pode ligar-se verticalmente a tanques compatíveis. O fluido que recebe é eliminado de forma permanente."
     ],
     "irontanks/block/creative_tank": [
-      "Mais espaço para os fluidos que mantêm a indústria a funcionar.",
-      "Um tanque-fonte para o modo Criativo. Depois de receber um tipo de fluido, pode fornecê-lo sem reduzir a quantidade armazenada.",
-      "As melhorias de tanque alteram o nível do tanque sem perder o fluido armazenado.",
+      "Uma fonte inesgotável de fluidos para o modo Criativo.",
+      "Após receber um tipo de fluido, fornece-o sem reduzir a quantidade armazenada.",
+      "Destina-se ao modo Criativo e não funciona como um tanque de armazenamento convencional.",
       "Funcionamento",
-      "O Tanque criativo não se liga verticalmente a outros tanques, de propósito, para evitar cadeias de equilíbrio com fluido infinito."
+      "O tanque criativo não se liga verticalmente a outros tanques, para evitar que o fluido infinito se propague pelas colunas de armazenamento."
     ],
     "irontanks/item/glass_copper_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de vidro num tanque de cobre diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/glass_iron_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de vidro num tanque de ferro diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/copper_iron_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de cobre num tanque de ferro diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/copper_silver_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de cobre num tanque de prata diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/iron_gold_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de ferro num tanque de ouro diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/silver_gold_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de prata num tanque de ouro diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/gold_diamond_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de ouro num tanque de diamante diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/diamond_obsidian_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de diamante num tanque de obsidiana diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/diamond_emerald_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de diamante num tanque de esmeralda diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/diamond_aluminium_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de diamante num tanque de alumínio diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/emerald_stainlesssteel_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de esmeralda num tanque de aço inoxidável diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/aluminium_stainlesssteel_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de alumínio num tanque de aço inoxidável diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/stainlesssteel_titanium_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de aço inoxidável num tanque de titânio diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ],
     "irontanks/item/titanium_tungstensteel_upgrade": [
-      "Aumente a capacidade, não o trabalho manual.",
+      "Aumenta a capacidade do tanque sem perder o fluido.",
       "Converte um tanque de titânio num tanque de aço de tungsténio diretamente no mundo.",
-      "Use o item de melhoria no tanque correspondente.",
-      "Preservação do fluido",
-      "O servidor substitui primeiro o bloco, copia toda a pilha de fluido para o novo tanque e só depois consome o item de melhoria."
+      "Usa a melhoria no tanque correspondente.",
+      "Conservação do fluido",
+      "Ao aplicares a melhoria, o tanque é substituído pelo modelo indicado e conserva o fluido armazenado."
     ]
   }
 }

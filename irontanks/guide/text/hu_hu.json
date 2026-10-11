@@ -3,193 +3,193 @@
   "language": "hu_hu",
   "pages": {
     "irontanks/block/copper_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 27 vödör (27 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A réztartály kapacitása 27 vödör (27 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/iron_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 32 vödör (32 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A vastartály kapacitása 32 vödör (32 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/silver_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 43 vödör (43 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A ezüsttartály kapacitása 43 vödör (43 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/gold_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 48 vödör (48 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A aranytartály kapacitása 48 vödör (48 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/diamond_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 64 vödör (64 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A gyémánttartály kapacitása 64 vödör (64 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/obsidian_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 64 vödör (64 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A obszidiántartály kapacitása 64 vödör (64 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/emerald_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 96 vödör (96 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A smaragdtartály kapacitása 96 vödör (96 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/aluminium_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 96 vödör (96 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A alumíniumtartály kapacitása 96 vödör (96 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/stainlesssteel_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 128 vödör (128 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A rozsdamentes acéltartály kapacitása 128 vödör (128 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/titanium_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 256 vödör (256 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A titántartály kapacitása 256 vödör (256 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/tungstensteel_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "BuildCraft-kompatibilis tartály 512 vödör (512 000 mB) kapacitással.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A kompatibilis tartályok egymás fölé helyezve függőleges folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei a natív folyadékképességen keresztül érik el."
+      "Több hely a víznek, az olajnak és más ipari folyadékoknak.",
+      "A volfrámacéltartály kapacitása 512 vödör (512 000 mB). A BuildCraft csöveivel is használható.",
+      "A tartályfejlesztések a tárolt folyadék elvesztése nélkül alakítják át a tartályt.",
+      "Használat",
+      "Az összeillő tartályok egymás fölé helyezve közös folyadékoszlopot alkothatnak. A BuildCraft csövei és gépei is képesek folyadékot tölteni beléjük és kivenni belőlük."
     ],
     "irontanks/block/void_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "Kompakt megsemmisítő tartály, amely tickenként folyamatosan legfeljebb 80 mB tárolt folyadékot semmisít meg.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "Függőlegesen csatlakozhat kompatibilis tartályokhoz. Az ebbe a tartályba kerülő folyadék véglegesen törlődik."
+      "A fölösleges folyadékok végleges eltávolítására.",
+      "A megsemmisítő tartály tickenként legfeljebb 80 mB folyadékot semmisít meg.",
+      "A tartályba került folyadékot nem lehet visszanyerni.",
+      "Használat",
+      "Függőlegesen összekapcsolható a kompatibilis tartályokkal. A belé kerülő folyadék végleg megsemmisül."
     ],
     "irontanks/block/creative_tank": [
-      "Több hely az ipart működtető folyadékoknak.",
-      "Kreatív módú folyadékforrás-tartály. Egy folyadéktípus betöltése után úgy adja ki azt, hogy a tárolt mennyiség nem csökken.",
-      "A tartályfejlesztések a tárolt folyadék megtartása mellett váltanak magasabb szintre.",
-      "Működés",
-      "A Kreatív tartály szándékosan nem csatlakozik függőlegesen más tartályokhoz, hogy elkerülje a végtelen folyadékot kiegyenlítő láncokat."
+      "Korlátlan folyadékforrás kreatív módban.",
+      "Válassz ki egy folyadékfajtát, és a kreatív tartály annak mennyiségét csökkentés nélkül adja ki.",
+      "A kiválasztott folyadék gyakorlatilag korlátlanul rendelkezésre áll.",
+      "Használat",
+      "A kreatív tartály nem kapcsolódik függőlegesen más tartályokhoz, hogy elkerülje a végtelen folyadékkal működő kiegyenlítő láncokat."
     ],
     "irontanks/item/glass_copper_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A üveg tartályt közvetlenül a világban réz tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A üvegtartályt közvetlenül réztartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/glass_iron_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A üveg tartályt közvetlenül a világban vas tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A üvegtartályt közvetlenül vastartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/copper_iron_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A réz tartályt közvetlenül a világban vas tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A réztartályt közvetlenül vastartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/copper_silver_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A réz tartályt közvetlenül a világban ezüst tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A réztartályt közvetlenül ezüsttartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/iron_gold_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A vas tartályt közvetlenül a világban arany tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A vastartályt közvetlenül aranytartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/silver_gold_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A ezüst tartályt közvetlenül a világban arany tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A ezüsttartályt közvetlenül aranytartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/gold_diamond_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A arany tartályt közvetlenül a világban gyémánt tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A aranytartályt közvetlenül gyémánttartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/diamond_obsidian_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A gyémánt tartályt közvetlenül a világban obszidián tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A gyémánttartályt közvetlenül obszidiántartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/diamond_emerald_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A gyémánt tartályt közvetlenül a világban smaragd tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A gyémánttartályt közvetlenül smaragdtartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/diamond_aluminium_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A gyémánt tartályt közvetlenül a világban alumínium tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A gyémánttartályt közvetlenül alumíniumtartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/emerald_stainlesssteel_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A smaragd tartályt közvetlenül a világban rozsdamentes acél tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A smaragdtartályt közvetlenül rozsdamentes acéltartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/aluminium_stainlesssteel_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A alumínium tartályt közvetlenül a világban rozsdamentes acél tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A alumíniumtartályt közvetlenül rozsdamentes acéltartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/stainlesssteel_titanium_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A rozsdamentes acél tartályt közvetlenül a világban titán tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A rozsdamentes acéltartályt közvetlenül titántartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ],
     "irontanks/item/titanium_tungstensteel_upgrade": [
-      "A kapacitást fejleszd, ne a kézi munkát növeld.",
-      "A titán tartályt közvetlenül a világban volfrámacél tartállyá alakítja.",
-      "Használd a fejlesztő tárgyat a megfelelő tartályon.",
-      "Folyadék megőrzése",
-      "A szerver először kicseréli a blokkot, majd a teljes folyadékkészletet átmásolja az új tartályba, és csak ezután fogyasztja el a fejlesztő tárgyat."
+      "Fejleszd a tartályt a folyadék kézi átfejtése nélkül.",
+      "A titántartályt közvetlenül volfrámacéltartállyá alakítja a világban.",
+      "Használd a fejlesztőelemet a megfelelő tartályon.",
+      "A folyadék megőrzése",
+      "A fejlesztés során a tárolt folyadék típusa és mennyisége megmarad. A fejlesztőelem csak sikeres átalakításkor fogy el."
     ]
   }
 }
